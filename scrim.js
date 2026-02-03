@@ -23,7 +23,7 @@ const WATCH_CHANNEL_ID = "1449214342905200705";
 const ACCESS_ROLE_ID  = "1450324100164878336";
 
 // reaction emoji and access cap (max users allowed to have role at same time)
-const REACTION_EMOJI  = 'âœ…';
+const REACTION_EMOJI  = '✅';
 const REACTION_CAP    = 7; // 6 allowed; 7th will be put into waiting queue
 
 // store file for reactors + wait queue
